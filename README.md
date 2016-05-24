@@ -1,7 +1,7 @@
 # resume
 
-Feel Free to contact me anytime and Anyday
-<=========================================>
+#Feel Free to contact me anytime and Anyday
+#-========================================-
 
 My name is Ariama Victor (A.K.A. OVAC Boya) and I am a self motivated web developer. 
 
