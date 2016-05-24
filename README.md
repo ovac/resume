@@ -1,4 +1,4 @@
-# resume
+# Resume
 
 #
 Feel Free to contact me anytime and Anyday
